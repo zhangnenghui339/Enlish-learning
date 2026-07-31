@@ -1,0 +1,67 @@
+---
+description: 打开项目后：输入单词即解析入库；输入句子则拆解并只把难词入库
+alwaysApply: true
+---
+
+# English Learning — 默认行为
+
+本仓库是英语学习项目。用户打开项目后**直接输入单词或句子**，即按下面执行，无需再确认格式。
+
+权威说明：`vocabulary/METHOD.md`  
+模板：`templates/word-entry.md`、`templates/sentence-entry.md`
+
+---
+
+## 输入 = 单词（默认）
+
+识别：单个词、几个词、或「xxx 什么意思」——按单词处理。
+
+立刻：
+
+1. 写入 `vocabulary/entries/<word>.md`（文件名小写，空格改 `-`）
+2. 更新 `vocabulary/words.md` 索引一行
+3. 追加 `vocabulary/log/YYYY-MM-DD.md`
+4. 在对话用同一结构回复
+
+条目必须含四块（缺一不可）：
+
+1. 词根  
+2. 高频常用意思（1–3）  
+3. 常用短语  
+4. 常用句子（每句：逐词翻译 + 语法拆解）
+
+来源默认 `chat`；从 inbox/线上粘贴则用 `online`；掌握默认 `new`。
+
+---
+
+## 输入 = 句子
+
+识别：明显是完整英文句（有主谓或较长一句）。
+
+立刻：
+
+1. 回复：整句意思 → 逐词翻译 → 语法拆解  
+2. 可选写入 `vocabulary/sentences/YYYY-MM-DD-<短标题>.md`  
+3. **只把较复杂的词**按单词流程写入 `entries/` + `words.md`  
+4. **禁止**把句中每个词都建条目；跳过冠词、be、简单代词和极基础词
+
+在回复末尾列出「已入库难词：…」。
+
+---
+
+## 每日 AI 新闻
+
+用户说「生成今天的 AI 新闻」等：
+
+1. 读 `words.md` / `entries/`  
+2. 用已学词改写 1 则 AI 新闻 → `news/YYYY-MM-DD.md`  
+3. 必须新词才入库，来源 `news`
+
+---
+
+## 原则
+
+- 用户丢词 = 直接解析并写入 vocabulary，不要只口头讲一遍就结束  
+- `words.md` 是索引；完整内容在 `entries/`  
+- 不擅自 git commit / push  
+- 回复清晰、中文为主解释，英文例句保留原文  

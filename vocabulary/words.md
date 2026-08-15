@@ -56,6 +56,17 @@
 | cost of living | 生活成本 | [cost-of-living.md](entries/cost-of-living.md) | 2026-07-31 | chat | new |
 | bonus | 奖金 | [bonus.md](entries/bonus.md) | 2026-07-31 | chat | new |
 | RSU | 限制性股票单位 | [rsu.md](entries/rsu.md) | 2026-07-31 | chat | new |
+| approach | 方法；接近；接洽 | [approach.md](entries/approach.md) | 2026-08-15 | chat | new |
+| profitable | 有利可图的；赚钱的 | [profitable.md](entries/profitable.md) | 2026-08-15 | chat | new |
+| validation | 验证；校验；确认 | [validation.md](entries/validation.md) | 2026-08-15 | chat | new |
+| trap | 陷阱；圈套；困住 | [trap.md](entries/trap.md) | 2026-08-15 | chat | new |
+| delivering | 正在交付；兑现；发表 | [delivering.md](entries/delivering.md) | 2026-08-15 | chat | new |
+| potential | 潜力；潜在的；可能性 | [potential.md](entries/potential.md) | 2026-08-15 | chat | new |
+| daily usage limits | 每日用量限额；日配额 | [daily-usage-limits.md](entries/daily-usage-limits.md) | 2026-08-15 | chat | new |
+| retention | 留存；保留；留住率 | [retention.md](entries/retention.md) | 2026-08-15 | chat | new |
+| engagement | 参与度；互动；约定 | [engagement.md](entries/engagement.md) | 2026-08-15 | chat | new |
+| industrial | 工业的；产业的；工业级的 | [industrial.md](entries/industrial.md) | 2026-08-15 | chat | new |
+| massive merger | 大规模并购；巨型合并 | [massive-merger.md](entries/massive-merger.md) | 2026-08-15 | chat | new |
 
 打开项目后直接输入单词 → 自动按「词根 / 高频义 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 只把较难的词追加到本表。

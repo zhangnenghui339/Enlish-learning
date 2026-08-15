@@ -60,6 +60,7 @@
 | profitable | 有利可图的；赚钱的 | [profitable.md](entries/profitable.md) | 2026-08-15 | chat | new |
 | validation | 验证；校验；确认 | [validation.md](entries/validation.md) | 2026-08-15 | chat | new |
 | trap | 陷阱；圈套；困住 | [trap.md](entries/trap.md) | 2026-08-15 | chat | new |
+| delivering | 正在交付；兑现；发表 | [delivering.md](entries/delivering.md) | 2026-08-15 | chat | new |
 
 打开项目后直接输入单词 → 自动按「词根 / 高频义 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 只把较难的词追加到本表。

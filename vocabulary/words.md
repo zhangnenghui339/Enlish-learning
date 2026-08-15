@@ -62,6 +62,7 @@
 | trap | 陷阱；圈套；困住 | [trap.md](entries/trap.md) | 2026-08-15 | chat | new |
 | delivering | 正在交付；兑现；发表 | [delivering.md](entries/delivering.md) | 2026-08-15 | chat | new |
 | potential | 潜力；潜在的；可能性 | [potential.md](entries/potential.md) | 2026-08-15 | chat | new |
+| daily usage limits | 每日用量限额；日配额 | [daily-usage-limits.md](entries/daily-usage-limits.md) | 2026-08-15 | chat | new |
 
 打开项目后直接输入单词 → 自动按「词根 / 高频义 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 只把较难的词追加到本表。

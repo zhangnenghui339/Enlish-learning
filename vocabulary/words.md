@@ -36,7 +36,7 @@
 | clay | 黏土；亦指 Clay.com | [clay.md](entries/clay.md) | 2026-07-31 | chat | new |
 | clay alternative | Clay 的替代产品 | [clay-alternative.md](entries/clay-alternative.md) | 2026-07-31 | chat | new |
 | salary | 薪资；薪水 | [salary.md](entries/salary.md) | 2026-07-31 | chat | new |
-| sponsor | 赞助；签证担保 | [sponsor.md](entries/sponsor.md) | 2026-07-31 | chat | new |
+| sponsor | 赞助；签证担保（原子：承诺/站出来负责） | [sponsor.md](entries/sponsor.md) | 2026-07-31 | chat | review |
 | interview | 面试；采访 | [interview.md](entries/interview.md) | 2026-07-31 | chat | new |
 | hiring trend | 招聘趋势 | [hiring-trend.md](entries/hiring-trend.md) | 2026-07-31 | chat | new |
 | ATS | 应聘者追踪系统 | [ats.md](entries/ats.md) | 2026-07-31 | chat | new |
@@ -56,6 +56,38 @@
 | cost of living | 生活成本 | [cost-of-living.md](entries/cost-of-living.md) | 2026-07-31 | chat | new |
 | bonus | 奖金 | [bonus.md](entries/bonus.md) | 2026-07-31 | chat | new |
 | RSU | 限制性股票单位 | [rsu.md](entries/rsu.md) | 2026-07-31 | chat | new |
+| headlines & launches | （栏目）头条与新品发布 | [headlines-launches.md](entries/headlines-launches.md) | 2026-08-01 | chat | new |
+| bullet points | 要点列表；条目式要点 | [bullet-points.md](entries/bullet-points.md) | 2026-08-01 | chat | new |
+| AI PDF Summarizer | AI PDF 摘要工具 | [ai-pdf-summarizer.md](entries/ai-pdf-summarizer.md) | 2026-08-01 | chat | new |
+| Creator Data Infrastructure | 创作者数据基础设施 | [creator-data-infrastructure.md](entries/creator-data-infrastructure.md) | 2026-08-01 | chat | new |
+| influencers | 网红；意见领袖；有影响力的人 | [influencers.md](entries/influencers.md) | 2026-08-01 | chat | new |
+| consistently | 一贯地；始终 | [consistently.md](entries/consistently.md) | 2026-08-01 | chat | new |
+| intuitive | 直观的；凭直觉的 | [intuitive.md](entries/intuitive.md) | 2026-08-01 | chat | new |
+| streamline | 精简；使高效 | [streamline.md](entries/streamline.md) | 2026-08-01 | chat | new |
+| collaboration | 协作；合作 | [collaboration.md](entries/collaboration.md) | 2026-08-01 | chat | new |
+| integrate | 整合；集成 | [integrate.md](entries/integrate.md) | 2026-08-01 | chat | new |
+| enhance | 增强；提升 | [enhance.md](entries/enhance.md) | 2026-08-01 | chat | new |
+| productivity | 生产力；效率 | [productivity.md](entries/productivity.md) | 2026-08-01 | chat | new |
+| overwhelming | 令人应接不暇的；压倒性的 | [overwhelming.md](entries/overwhelming.md) | 2026-08-01 | chat | new |
+| fleet management software | 车队管理软件 | [fleet-management-software.md](entries/fleet-management-software.md) | 2026-08-01 | chat | new |
+| catalytic converter cleaner | 三元催化清洗剂；催化转化器清洁剂 | [catalytic-converter-cleaner.md](entries/catalytic-converter-cleaner.md) | 2026-08-01 | chat | new |
+| best software for engineers | 最适合工程师的软件 | [best-software-for-engineers.md](entries/best-software-for-engineers.md) | 2026-08-01 | chat | new |
+| Vertical Hub | 垂直领域中心；垂直行业枢纽 | [vertical-hub.md](entries/vertical-hub.md) | 2026-08-01 | chat | new |
+| AI tattoo generator | AI 纹身生成器 | [ai-tattoo-generator.md](entries/ai-tattoo-generator.md) | 2026-08-01 | chat | new |
+| friction | 摩擦；阻力；不和 | [friction.md](entries/friction.md) | 2026-08-01 | chat | new |
+| Resume Checker | 简历检查器 | [resume-checker.md](entries/resume-checker.md) | 2026-08-01 | chat | new |
+| Diff Summary | 差异摘要；改动总结 | [diff-summary.md](entries/diff-summary.md) | 2026-08-01 | chat | new |
+| Prompt Cleaner | 提示词清理器 | [prompt-cleaner.md](entries/prompt-cleaner.md) | 2026-08-01 | chat | new |
+| Context Splitter | 上下文拆分器 | [context-splitter.md](entries/context-splitter.md) | 2026-08-01 | chat | new |
+| AI Workflow Utility Platform | AI 工作流实用工具平台 | [ai-workflow-utility-platform.md](entries/ai-workflow-utility-platform.md) | 2026-08-01 | chat | new |
+| utility | 实用工具；效用；公用事业 | [utility.md](entries/utility.md) | 2026-08-01 | chat | new |
+| workflow utility | 工作流实用工具 | [workflow-utility.md](entries/workflow-utility.md) | 2026-08-03 | chat | new |
+| attention arbitrage | 注意力套利；利用注意力价差获利 | [attention-arbitrage.md](entries/attention-arbitrage.md) | 2026-08-13 | chat | new |
+| enterprise price | 企业价格（买下整家公司的代价） | [enterprise-price.md](entries/enterprise-price.md) | 2026-08-13 | chat | new |
+| underlying asset value | 标的资产价值；底层资产价值 | [underlying-asset-value.md](entries/underlying-asset-value.md) | 2026-08-13 | chat | new |
+| plane | 平；飞机；刨子（原子：planus 平的） | [plane.md](entries/plane.md) | 2026-08-18 | chat | new |
+| ultimately | 最终；归根结底（原子：最远/最后） | [ultimately.md](entries/ultimately.md) | 2026-08-18 | chat | new |
+| clarify | 澄清；阐明；使变清（原子：clarus 弄亮/弄清） | [clarify.md](entries/clarify.md) | 2026-08-18 | chat | new |
 
-打开项目后直接输入单词 → 自动按「词根 / 高频义 / 短语 / 句子」写入 `entries/`。  
-输入句子 → 只把较难的词追加到本表。
+打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
+输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

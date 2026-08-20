@@ -88,6 +88,7 @@
 | plane | 平；飞机；刨子（原子：planus 平的） | [plane.md](entries/plane.md) | 2026-08-18 | chat | new |
 | ultimately | 最终；归根结底（原子：最远/最后） | [ultimately.md](entries/ultimately.md) | 2026-08-18 | chat | new |
 | clarify | 澄清；阐明；使变清（原子：clarus 弄亮/弄清） | [clarify.md](entries/clarify.md) | 2026-08-18 | chat | new |
+| cognitive | 认知的；思维/智力方面的（原子：cognoscere 去知道） | [cognitive.md](entries/cognitive.md) | 2026-08-20 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

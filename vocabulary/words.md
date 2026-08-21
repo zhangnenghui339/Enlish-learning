@@ -91,6 +91,7 @@
 | cognitive | 认知的；思维/智力方面的（原子：cognoscere 去知道） | [cognitive.md](entries/cognitive.md) | 2026-08-20 | chat | new |
 | implies | 意味着；暗示；蕴含（原子：折进去；原形 imply） | [implies.md](entries/implies.md) | 2026-08-20 | chat | new |
 | separating | 分开；分离；分隔（原子：拉开、各放一边；原形 separate） | [separating.md](entries/separating.md) | 2026-08-21 | chat | new |
+| scraping | 刮；擦伤；勉强凑；抓取（原子：贴着面刮下一层；原形 scrape） | [scraping.md](entries/scraping.md) | 2026-08-21 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

@@ -1,0 +1,14 @@
+{
+  "name": "English Learning 词库",
+  "user": "ubuntu",
+  "install": "pip install --user --upgrade -r requirements.txt && (python3 tools/check_vocab.py || true)",
+  "terminals": [
+    {
+      "name": "docs",
+      "command": "python3 -m mkdocs serve -a 0.0.0.0:8000"
+    }
+  ],
+  "ports": [
+    8000
+  ]
+}

@@ -1,0 +1,46 @@
+site_name: English Learning 词库
+site_description: 个人英语学习知识库（单词条目 / 索引 / 句子 / 日志）的本地预览站点
+docs_dir: vocabulary
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang:
+        - en
+      separator: '[\s\u200b\-,，。、]+'
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details

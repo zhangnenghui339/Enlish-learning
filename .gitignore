@@ -1,0 +1,8 @@
+# MkDocs 预览站点构建产物
+site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

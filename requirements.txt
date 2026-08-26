@@ -1,0 +1,4 @@
+# 词库预览站点（本地开发用）。安装：pip install -r requirements.txt
+# Knowledge-base preview site for local development.
+mkdocs==1.6.1
+mkdocs-material==9.7.7

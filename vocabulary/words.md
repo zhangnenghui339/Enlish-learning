@@ -92,6 +92,7 @@
 | pursue | 追求；追赶；追究（原子：prosequi 跟在后面追） | [pursue.md](entries/pursue.md) | 2026-08-26 | chat | new |
 | margin | 页边；利润；余地（原子：margo 边上那一圈） | [margin.md](entries/margin.md) | 2026-08-26 | chat | new |
 | command | 命令；掌握；指令（原子：mandare 交到手上发令） | [command.md](entries/command.md) | 2026-08-26 | chat | new |
+| upside | 好处；上涨空间；朝上的一面（原子：up+side 朝上那一面） | [upside.md](entries/upside.md) | 2026-08-27 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

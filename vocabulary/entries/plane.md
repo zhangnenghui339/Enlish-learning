@@ -55,30 +55,32 @@
 
 ## 4. 常用短语
 
-| 短语 | 意思 |
-|------|------|
-| by plane | 坐飞机 |
-| wood plane | 木工刨 |
-| plane the wood | 把木头刨平 |
-| a plane surface | 平面 |
-| plane geometry | 平面几何 |
-| plain language | 平实的话（拼写是 plain） |
-| plain water | 白开水（拼写是 plain） |
-| a plain guy | 普通、不突出的人（拼写是 plain） |
-| as plain as the nose on your face | 显而易见 |
+| 短语 | 音标 | 意思 |
+|------|------|------|
+| by plane | /baɪ pleɪn/ | 坐飞机 |
+| wood plane | /wʊd pleɪn/ | 木工刨 |
+| plane the wood | /pleɪn ðə wʊd/ | 把木头刨平 |
+| a plane surface | /ə pleɪn ˈsɜːfɪs/ | 平面 |
+| plane geometry | /pleɪn dʒiˈɒmətri/ | 平面几何 |
+| plain language | /pleɪn ˈlæŋɡwɪdʒ/ | 平实的话（拼写是 plain） |
+| plain water | /pleɪn ˈwɔːtə/ | 白开水（拼写是 plain） |
+| a plain guy | /ə pleɪn ɡaɪ/ | 普通、不突出的人（拼写是 plain） |
+| as plain as the nose on your face | /əz pleɪn əz ðə nəʊz ɒn jɔː feɪs/ | 显而易见 |
 
 ## 5. 常用句子
 
 ### 句子 1
 > The plane leaves at noon.
+>
+> /ðə pleɪn liːvz ət nuːn/
 
 **逐词翻译**
 
-| 词 | 意思 |
-|----|------|
-| The plane | 这架飞机 |
-| leaves | 起飞 / 离开 |
-| at noon | 在中午 |
+| 词 | 音标 | 意思 |
+|----|------|------|
+| The plane | /ðə pleɪn/ | 这架飞机 |
+| leaves | /liːvz/ | 起飞 / 离开 |
+| at noon | /ət nuːn/ | 在中午 |
 
 **语法拆解**
 - 句型：主谓 + 时间状语
@@ -88,16 +90,18 @@
 
 ### 句子 2
 > Plane the wood until the surface is flat.
+>
+> /pleɪn ðə wʊd ənˈtɪl ðə ˈsɜːfɪs ɪz flæt/
 
 **逐词翻译**
 
-| 词 | 意思 |
-|----|------|
-| Plane | 刨平（动词） |
-| the wood | 这块木头 |
-| until | 直到 |
-| the surface | 表面 |
-| is flat | 是平的 |
+| 词 | 音标 | 意思 |
+|----|------|------|
+| Plane | /pleɪn/ | 刨平（动词） |
+| the wood | /ðə wʊd/ | 这块木头 |
+| until | /ənˈtɪl/ | 直到 |
+| the surface | /ðə ˈsɜːfɪs/ | 表面 |
+| is flat | /ɪz flæt/ | 是平的 |
 
 **语法拆解**
 - 句型：祈使句 + until 时间从句
@@ -107,16 +111,18 @@
 
 ### 句子 3
 > Just explain it in plain language.
+>
+> /dʒʌst ɪkˈspleɪn ɪt ɪn pleɪn ˈlæŋɡwɪdʒ/
 
 **逐词翻译**
 
-| 词 | 意思 |
-|----|------|
-| Just | 只要 |
-| explain | 解释（向外摊平） |
-| it | 这件事 |
-| in | 用 |
-| plain language | 平实的话 |
+| 词 | 音标 | 意思 |
+|----|------|------|
+| Just | /dʒʌst/ | 只要 |
+| explain | /ɪkˈspleɪn/ | 解释（向外摊平） |
+| it | /ɪt/ | 这件事 |
+| in | /ɪn/ | 用 |
+| plain language | /pleɪn ˈlæŋɡwɪdʒ/ | 平实的话 |
 
 **语法拆解**
 - 句型：祈使句

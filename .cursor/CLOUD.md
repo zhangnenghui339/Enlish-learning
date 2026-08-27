@@ -5,8 +5,9 @@ Cloud 与本地必须用同一套英语学习格式。先读并遵守仓库根�
 用户直接丢单词或句子时：
 
 1. **先翻译**（单词：开头给中文义；句子：一句英 + 一句中）
-2. 单词接着给英文解释、原子意思、词根、短语、例句
-3. 再写入 `vocabulary/entries/`、更新 `words.md`、追加当日 `log/`
+2. **单词立刻给音标**（`/…/`；英美差异大时并列）
+3. 单词接着给英文解释、原子意思、词根、短语、例句（短语表和逐词表都必须含音标）
+4. 再写入 `vocabulary/entries/`、更新 `words.md`、追加当日 `log/`
 
 示范：`vocabulary/entries/plane.md`  
 模板：`templates/word-entry.md`、`templates/sentence-entry.md`

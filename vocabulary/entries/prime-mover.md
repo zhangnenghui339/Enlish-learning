@@ -52,28 +52,30 @@
 
 ## 4. 常用短语
 
-| 短语 | 意思 |
-|------|------|
-| the prime mover behind | ……背后的推动者 |
-| a prime mover in | 在……中起主导作用的人 |
-| prime mover of change | 变革的原动力 |
-| diesel / steam prime mover | 柴油 / 蒸汽原动机 |
-| the unmoved / Prime Mover | （哲学）第一推动者 |
-| first-mover advantage | 先发优势（对照：不是 prime mover） |
+| 短语 | 音标 | 意思 |
+|------|------|------|
+| the prime mover behind | /ðə ˌpraɪm ˈmuːvər bɪˈhaɪnd/ | ……背后的推动者 |
+| a prime mover in | /ə ˌpraɪm ˈmuːvər ɪn/ | 在……中起主导作用的人 |
+| prime mover of change | /ˌpraɪm ˈmuːvər əv tʃeɪndʒ/ | 变革的原动力 |
+| diesel / steam prime mover | /ˈdiːzl ˌpraɪm ˈmuːvər/; /stiːm ˌpraɪm ˈmuːvər/ | 柴油 / 蒸汽原动机 |
+| the unmoved / Prime Mover | /ði ʌnˈmuːvd ˌpraɪm ˈmuːvər/ | （哲学）第一推动者 |
+| first-mover advantage | /ˌfɜːst ˈmuːvər ədˈvɑːntɪdʒ/ | 先发优势（对照：不是 prime mover） |
 
 ## 5. 常用句子
 
 ### 句子 1
 > She was the prime mover behind the new policy.
+>
+> /ʃi wəz ðə ˌpraɪm ˈmuːvər bɪˈhaɪnd ðə njuː ˈpɒləsi/
 
 **逐词翻译**
 
-| 词 | 意思 |
-|----|------|
-| She | 她 |
-| was | 是 |
-| the prime mover | 最先推动的那个人 |
-| behind the new policy | 在这项新政策背后 |
+| 词 | 音标 | 意思 |
+|----|------|------|
+| She | /ʃi/ | 她 |
+| was | /wəz/ | 是 |
+| the prime mover | /ðə ˌpraɪm ˈmuːvər/ | 最先推动的那个人 |
+| behind the new policy | /bɪˈhaɪnd ðə njuː ˈpɒləsi/ | 在这项新政策背后 |
 
 **语法拆解**
 - 句型：主系表 + 后置定语
@@ -83,15 +85,17 @@
 
 ### 句子 2
 > The diesel engine is the prime mover for the generator.
+>
+> /ðə ˈdiːzl ˈendʒɪn ɪz ðə ˌpraɪm ˈmuːvər fə ðə ˈdʒenəreɪtə/
 
 **逐词翻译**
 
-| 词 | 意思 |
-|----|------|
-| The diesel engine | 这台柴油机 |
-| is | 是 |
-| the prime mover | 原动机 / 第一股动力 |
-| for the generator | 给发电机用的 |
+| 词 | 音标 | 意思 |
+|----|------|------|
+| The diesel engine | /ðə ˈdiːzl ˈendʒɪn/ | 这台柴油机 |
+| is | /ɪz/ | 是 |
+| the prime mover | /ðə ˌpraɪm ˈmuːvər/ | 原动机 / 第一股动力 |
+| for the generator | /fə ðə ˈdʒenəreɪtə/ | 给发电机用的 |
 
 **语法拆解**
 - 句型：主系表 + 介词短语
@@ -101,15 +105,17 @@
 
 ### 句子 3
 > Aristotle's Prime Mover starts all motion without being moved.
+>
+> /ˌærɪˈstɒtlz ˌpraɪm ˈmuːvər stɑːts ɔːl ˈməʊʃn wɪˈðaʊt ˈbiːɪŋ muːvd/
 
 **逐词翻译**
 
-| 词 | 意思 |
-|----|------|
-| Aristotle's Prime Mover | 亚里士多德所说的第一推动者 |
-| starts | 启动 |
-| all motion | 一切运动 |
-| without being moved | 自己却不被推动 |
+| 词 | 音标 | 意思 |
+|----|------|------|
+| Aristotle's Prime Mover | /ˌærɪˈstɒtlz ˌpraɪm ˈmuːvər/ | 亚里士多德所说的第一推动者 |
+| starts | /stɑːts/ | 启动 |
+| all motion | /ɔːl ˈməʊʃn/ | 一切运动 |
+| without being moved | /wɪˈðaʊt ˈbiːɪŋ muːvd/ | 自己却不被推动 |
 
 **语法拆解**
 - 句型：主谓宾 + without 状语

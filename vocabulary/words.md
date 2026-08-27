@@ -94,6 +94,7 @@
 | command | 命令；掌握；指令（原子：mandare 交到手上发令） | [command.md](entries/command.md) | 2026-08-26 | chat | new |
 | upside | 好处；上涨空间；朝上的一面（原子：up+side 朝上那一面） | [upside.md](entries/upside.md) | 2026-08-27 | chat | new |
 | incremental | 递增的；增量的；渐进的（原子：crescere 再长出一截） | [incremental.md](entries/incremental.md) | 2026-08-27 | chat | new |
+| wedge | 楔子；挤进；一角 / 离间（原子：厚→薄往缝里顶） | [wedge.md](entries/wedge.md) | 2026-08-27 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

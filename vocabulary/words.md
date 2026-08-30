@@ -98,6 +98,7 @@
 | prime mover | 推动者；原动机；第一推动者（原子：链条最前端使别的动） | [prime-mover.md](entries/prime-mover.md) | 2026-08-27 | chat | new |
 | scratch | 抓挠；划痕；从零开始（原子：尖东西在表面上刮过） | [scratch.md](entries/scratch.md) | 2026-08-28 | chat | new |
 | registry | 登记处；名册；注册表（原子：regerere 写回官方名单） | [registry.md](entries/registry.md) | 2026-08-28 | chat | new |
+| prime | 首要的；上等 / 全盛；素数（原子：primus 第一） | [prime.md](entries/prime.md) | 2026-08-30 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译，再音标**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`（短语表、逐词表都必须含音标）。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

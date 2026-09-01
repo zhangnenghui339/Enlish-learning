@@ -88,6 +88,22 @@
 | plane | 平；飞机；刨子（原子：planus 平的） | [plane.md](entries/plane.md) | 2026-08-18 | chat | new |
 | ultimately | 最终；归根结底（原子：最远/最后） | [ultimately.md](entries/ultimately.md) | 2026-08-18 | chat | new |
 | clarify | 澄清；阐明；使变清（原子：clarus 弄亮/弄清） | [clarify.md](entries/clarify.md) | 2026-08-18 | chat | new |
+| preferences | 偏好；偏好设置；优先（原子：praeferre 放到前面） | [preferences.md](entries/preferences.md) | 2026-08-26 | chat | new |
+| pursue | 追求；追赶；追究（原子：prosequi 跟在后面追） | [pursue.md](entries/pursue.md) | 2026-08-26 | chat | new |
+| margin | 页边；利润；余地（原子：margo 边上那一圈） | [margin.md](entries/margin.md) | 2026-08-26 | chat | new |
+| command | 命令；掌握；指令（原子：mandare 交到手上发令） | [command.md](entries/command.md) | 2026-08-26 | chat | new |
+| upside | 好处；上涨空间；朝上的一面（原子：up+side 朝上那一面） | [upside.md](entries/upside.md) | 2026-08-27 | chat | new |
+| incremental | 递增的；增量的；渐进的（原子：crescere 再长出一截） | [incremental.md](entries/incremental.md) | 2026-08-27 | chat | new |
+| wedge | 楔子；挤进；一角 / 离间（原子：厚→薄往缝里顶） | [wedge.md](entries/wedge.md) | 2026-08-27 | chat | new |
+| prime mover | 推动者；原动机；第一推动者（原子：链条最前端使别的动） | [prime-mover.md](entries/prime-mover.md) | 2026-08-27 | chat | new |
+| scratch | 抓挠；划痕；从零开始（原子：尖东西在表面上刮过） | [scratch.md](entries/scratch.md) | 2026-08-28 | chat | new |
+| registry | 登记处；名册；注册表（原子：regerere 写回官方名单） | [registry.md](entries/registry.md) | 2026-08-28 | chat | new |
+| prime | 首要的；上等 / 全盛；素数（原子：primus 第一） | [prime.md](entries/prime.md) | 2026-08-30 | chat | new |
+| vertical | 垂直的；纵向的（原子：vertex 朝着头顶那条轴） | [vertical.md](entries/vertical.md) | 2026-08-31 | chat | new |
+| funnel | 漏斗；导入；转化漏斗（原子：fundere 往窄口里倒） | [funnel.md](entries/funnel.md) | 2026-08-31 | chat | new |
+| apply | 申请；应用；涂上 / 适用（原子：plicare 折过去贴上） | [apply.md](entries/apply.md) | 2026-09-01 | chat | new |
+| regime | 政权；制度；养生安排（原子：regere 驾驭在一条轨道上） | [regime.md](entries/regime.md) | 2026-09-01 | chat | new |
+| approval | 批准；赞同；审批（原子：probare 验过认它好） | [approval.md](entries/approval.md) | 2026-09-01 | chat | new |
 
-打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
+打开项目后直接输入单词 / 句子 → **先翻译，再音标**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`（短语表、逐词表都必须含音标）。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

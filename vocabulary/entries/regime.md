@@ -57,10 +57,10 @@
 | military regime | /ˈmɪlətri reɪˈʒiːm/ | 军政府 |
 | authoritarian regime | /ɔːˌθɒrɪˈteəriən reɪˈʒiːm/ | 威权政权 |
 | regime change | /reɪˈʒiːm tʃeɪndʒ/ | 政权更迭 |
-| the old / ancien régime | /ði əʊld/; /ɑːnˈsjæ̃ reɪˈʒiːm/ | 旧制度 |
+| the old / ancien régime | /ði əʊld reɪˈʒiːm/; /ɑːnˈsjæ̃ reɪˈʒiːm/ | 旧制度 |
 | tax regime | /tæks reɪˈʒiːm/ | 税制 |
 | regulatory regime | /ˈreɡjələtəri reɪˈʒiːm/ | 监管制度 |
-| exercise / fitness regime | /ˈeksəsaɪz/; /ˈfɪtnəs reɪˈʒiːm/ | 训练 / 健身安排 |
+| exercise / fitness regime | /ˈeksəsaɪz reɪˈʒiːm/; /ˈfɪtnəs reɪˈʒiːm/ | 训练 / 健身安排 |
 | under this regime | /ˈʌndə ðɪs reɪˈʒiːm/ | 在这套制度 / 政权下 |
 
 ## 5. 常用句子

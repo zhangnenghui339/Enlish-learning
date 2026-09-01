@@ -102,6 +102,7 @@
 | vertical | 垂直的；纵向的（原子：vertex 朝着头顶那条轴） | [vertical.md](entries/vertical.md) | 2026-08-31 | chat | new |
 | funnel | 漏斗；导入；转化漏斗（原子：fundere 往窄口里倒） | [funnel.md](entries/funnel.md) | 2026-08-31 | chat | new |
 | apply | 申请；应用；涂上 / 适用（原子：plicare 折过去贴上） | [apply.md](entries/apply.md) | 2026-09-01 | chat | new |
+| regime | 政权；制度；养生安排（原子：regere 驾驭在一条轨道上） | [regime.md](entries/regime.md) | 2026-09-01 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译，再音标**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`（短语表、逐词表都必须含音标）。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

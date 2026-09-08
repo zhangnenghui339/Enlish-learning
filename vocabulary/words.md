@@ -90,6 +90,7 @@
 | clarify | 澄清；阐明；使变清（原子：clarus 弄亮/弄清） | [clarify.md](entries/clarify.md) | 2026-08-18 | chat | new |
 | relentless | 不懈的；无情的；持续不断的（原子：不软下来 / 不松手） | [relentless.md](entries/relentless.md) | 2026-09-08 | chat | new |
 | illusion | 错觉；假象；幻想（原子：ludere 玩/演戏，感官被玩一把） | [illusion.md](entries/illusion.md) | 2026-09-08 | chat | new |
+| hedonic | 享乐的；快感型的（原子：hēdonē 那一口甜/爽） | [hedonic.md](entries/hedonic.md) | 2026-09-08 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

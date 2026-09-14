@@ -88,6 +88,15 @@
 | plane | 平；飞机；刨子（原子：planus 平的） | [plane.md](entries/plane.md) | 2026-08-18 | chat | new |
 | ultimately | 最终；归根结底（原子：最远/最后） | [ultimately.md](entries/ultimately.md) | 2026-08-18 | chat | new |
 | clarify | 澄清；阐明；使变清（原子：clarus 弄亮/弄清） | [clarify.md](entries/clarify.md) | 2026-08-18 | chat | new |
+| cognitive | 认知的；思维/智力方面的（原子：cognoscere 彻底知道） | [cognitive.md](entries/cognitive.md) | 2026-09-14 | chat | new |
+| omnipotent | 全能的；无所不能的（原子：全部的力量） | [omnipotent.md](entries/omnipotent.md) | 2026-09-14 | chat | new |
+| narcissism | 自恋；自恋型人格（原子：被自己的倒影吸住） | [narcissism.md](entries/narcissism.md) | 2026-09-14 | chat | new |
+| omnipotent narcissism | 全能自恋（原子：倒影要当全能的神） | [omnipotent-narcissism.md](entries/omnipotent-narcissism.md) | 2026-09-14 | chat | new |
+| assumption | 假设；承担；圣母升天（原子：朝自己拿过来） | [assumption.md](entries/assumption.md) | 2026-09-14 | chat | new |
+| defusion | 认知解离；去融合（原子：把熔在一起的拆开） | [defusion.md](entries/defusion.md) | 2026-09-14 | chat | new |
+| agency | 能动性；代理机构（原子：agere 做、驱） | [agency.md](entries/agency.md) | 2026-09-14 | chat | new |
+| simulation | 模拟；假装（原子：做成像） | [simulation.md](entries/simulation.md) | 2026-09-14 | chat | new |
+| agency simulation | 能动性模拟（原子：把「能做」做得像） | [agency-simulation.md](entries/agency-simulation.md) | 2026-09-14 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

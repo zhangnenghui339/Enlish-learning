@@ -94,6 +94,9 @@
 | omnipotent narcissism | 全能自恋（原子：倒影要当全能的神） | [omnipotent-narcissism.md](entries/omnipotent-narcissism.md) | 2026-09-14 | chat | new |
 | assumption | 假设；承担；圣母升天（原子：朝自己拿过来） | [assumption.md](entries/assumption.md) | 2026-09-14 | chat | new |
 | defusion | 认知解离；去融合（原子：把熔在一起的拆开） | [defusion.md](entries/defusion.md) | 2026-09-14 | chat | new |
+| agency | 能动性；代理机构（原子：agere 做、驱） | [agency.md](entries/agency.md) | 2026-09-14 | chat | new |
+| simulation | 模拟；假装（原子：做成像） | [simulation.md](entries/simulation.md) | 2026-09-14 | chat | new |
+| agency simulation | 能动性模拟（原子：把「能做」做得像） | [agency-simulation.md](entries/agency-simulation.md) | 2026-09-14 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

@@ -92,6 +92,7 @@
 | omnipotent | 全能的；无所不能的（原子：全部的力量） | [omnipotent.md](entries/omnipotent.md) | 2026-09-14 | chat | new |
 | narcissism | 自恋；自恋型人格（原子：被自己的倒影吸住） | [narcissism.md](entries/narcissism.md) | 2026-09-14 | chat | new |
 | omnipotent narcissism | 全能自恋（原子：倒影要当全能的神） | [omnipotent-narcissism.md](entries/omnipotent-narcissism.md) | 2026-09-14 | chat | new |
+| assumption | 假设；承担；圣母升天（原子：朝自己拿过来） | [assumption.md](entries/assumption.md) | 2026-09-14 | chat | new |
 
 打开项目后直接输入单词 / 句子 → **先翻译**，再按「中文义 / 英文解释 / 原子意思 / 词根 / 短语 / 句子」写入 `entries/`。  
 输入句子 → 先逐句英中对照，再只把较难的词追加到本表。

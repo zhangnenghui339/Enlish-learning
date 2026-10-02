@@ -36,6 +36,7 @@ vocabulary/
   inbox.md            ← 线上词粘贴
   log/                ← 按日记录
 news/                 ← 每日 AI 新闻
+notes/                ← 专题思考与跨学科哲学/心理学笔记
 templates/            ← 格式模板
 .cursor/rules/        ← 打开项目自动生效的规则
 ```
